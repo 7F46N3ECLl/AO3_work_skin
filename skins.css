@@ -876,3 +876,18 @@ div.header.module h5.fandoms.heading a {
   font-variant: small-caps;
 }
 
+
+
+a.tag,
+a.tag:link,
+a.tag:visited {
+  background: none !important;
+}
+
+a.tag:hover,
+a.tag:focus,
+a.tag:active {
+  background: none !important;
+  text-decoration: underline !important;
+  color: #111 !important;           
+}
