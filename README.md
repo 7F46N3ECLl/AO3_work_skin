@@ -13,7 +13,6 @@ A heavily restyled skin for [Archive of Our Own](https://archiveofourown.org/) t
 - **Modern sans‑serif font** (system UI stack) with optional small‑caps
 - **Bold black error/hint messages** 
 - **Restructured tag display** on work blurbs 
-- **Renamed sections** (e.g., “Trending Topics”, “Local News”, “Economic Report”)
 - **Clean form fields** – white background, black borders, no browser glow
 - **Comment box spacing** – comfortable padding, no text touching edges
 
@@ -46,7 +45,7 @@ All further customisation – headers, footers, dropdowns, typography, box‑mod
 ## 🤝 Contributing
 
 Found a bug? Have an idea for an improvement?  
-**Please open an [issue](../../issues) or submit a pull request** instead of forking your own separate version. This helps keep the skin community collaborative and avoids scattered fragments.
+**Please open an [issue](../../issues) or submit a pull request.**
 
 Small contributions are very welcome!
 
