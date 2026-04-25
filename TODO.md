@@ -1,0 +1,2 @@
+- [ ] Replace certain images with Unicode
+- [x] Bug fixes - tags hovering effects
